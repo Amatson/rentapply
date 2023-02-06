@@ -1,3 +1,56 @@
-theme: jekyll-theme-minimal
-title: Rental application cover letter
-description: Rental application digital cover letter for Mr. & Mrs. Haukilintu
+url: https://rentapply.haukilintu.fi
+baseurl: /home
+
+# Site settings
+title: Looking for perfect tenants?
+email: rentapply@haukilintu.fi
+description: "Rental application digital cover letter for Mr. & Mrs. Haukilintu"
+
+
+# Team names, titles and social links
+people:
+- name: Matti Haukilintu
+  pic: matti
+  position: Husband, software engineer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/matti.ojala
+    - title: github
+      url: https://github.com/Amatson
+    - title: linkedin
+      url: www.linkedin.com/in/matti-haukilintu
+
+
+- name: Julia Haukilintu
+  pic: julia
+  position: Wife, veterinarian
+  social:
+    - title: facebook
+      url: https://www.facebook.com/julia.gustafsson.3
+    - title: instagram
+      url: https://www.instagram.com/julgusta/
+    - title: linkedin
+      url: https://www.linkedin.com/in/julia-haukilintu-7339b615b/
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

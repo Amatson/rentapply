@@ -1,0 +1,14 @@
+---
+title: Simple hobbies
+subtitle: Aiming for a healthy lifestyle
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: hobbies.jpg
+thumbnail: hobbies-thumbnail.jpg
+alt: image-alt
+key: Lorem
+extra: Ipsum
+description: Study
+
+---

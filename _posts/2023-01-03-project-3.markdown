@@ -1,0 +1,14 @@
+---
+title: The engineer
+subtitle: "Matti is an engineer... with masters degree!"
+layout: default
+modal-id: 3
+date: 2022-10-16
+img: engineer.jpg
+thumbnail: engineer-thumbnail.jpg
+alt: image-alt
+key: Salary = 4000€
+extra: Handyman with repair skills
+description: Matti has a masters degree in technology and is currently working remotely to Finland as a software developer
+
+---

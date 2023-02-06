@@ -1,0 +1,14 @@
+---
+title: Financials
+subtitle: Stable and prepared
+layout: default
+modal-id: 1
+date: 2021-02-01
+img: money.jpg
+thumbnail: money-thumbnail.jpg
+alt: image-alt
+key: Rent guaranteed
+extra: Might purchase some additional appliances.
+description: Moving to another country is not cheap. However, in addition to stable jobs, we have been saving enough money to be abble to support our stay for more than a year, even if our income sources were to vanish for some reason. <br> <br>As we intend to make our stay comfortable, we are searching for fully equipped and furnished apartment. However, as 
+
+---

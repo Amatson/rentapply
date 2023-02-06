@@ -1,0 +1,14 @@
+---
+title: References
+subtitle: Don't take just our word for it!
+layout: default
+modal-id: 6
+date: 2013-07-15
+img: references.jpg
+thumbnail: references-thumbnail.jpg
+alt: image-alt
+key: People vouch for us!
+extra: Our safety nets are strong
+description: TODO - add some references, maybe comments?
+
+---

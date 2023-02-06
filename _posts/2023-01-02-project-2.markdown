@@ -1,0 +1,14 @@
+---
+title: The veterinarian
+subtitle: Julia is a full fledged veterinarian!
+layout: default
+modal-id: 2
+date: 2022-10-17
+img: vet.jpg
+thumbnail: vet-thumbnail.jpg
+alt: image-alt
+key: Salary = 6000€
+extra: Got a pet to sit? Basic examination on us!
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
