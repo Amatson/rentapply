@@ -1,6 +1,6 @@
 ---
 title: The engineer
-subtitle: "Matti is an engineer... with masters degree!"
+subtitle: "Matti is a tinkering software developer"
 siteref: matti
 layout: default
 modal-id: 3
@@ -8,8 +8,16 @@ date: 2022-10-16
 img: engineer.jpg
 thumbnail: engineer-thumbnail.jpg
 alt: image-alt
-key: Salary = 4000€
+key: Salary = 6600A$ per month
 extra: Handyman with repair skills
-description: Matti has a masters degree in technology and is currently working remotely to Finland as a software developer
+description: "
+\"I have a masters degree in technology and I'm currently working remotely to Finland as a software developer. All I need is my laptop, and my back needs a chair and a table to work on. An apartment with a small study room or corner would be ideal, but I manage with just kitchen chair and dinner table just fine. Right now I work in a project as a full stack developer, and my monthly salary is 4200€. That's roughly 6600A$ before taxes.
+<br>
+<br>
+I am a tinkerer by nature, meaning that I love to craft with electronics and woodworks. This has proven very useful as a house owner, as I'm perfectly capable of repairing defective electronics and fixing broken interior.
+<br>
+<br>
+Need help with computer issues? Happy to help a friend (or a landlord) in need!
+\""
 
 ---

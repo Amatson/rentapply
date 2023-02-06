@@ -9,7 +9,29 @@ img: references.jpg
 thumbnail: references-thumbnail.jpg
 alt: image-alt
 key: People vouch for us!
-extra: Our safety nets are strong
-description: TODO - add some recommendations, maybe comments?
+extra: We are easy to vouch for
+description: "
+<b>\"Reliable and solid couple.\"</b> - Lea, mother of Matti
+<br>
+<br>
+<b>\"Julia is passionate vet and reliable colleague.\"</b> - Suvi Heinola, colleague and clinic owner
+<br>
+<br>
+<b>\"Matti is active and proactive, trustworthy fellow!\"</b> - Samuli Nikkanen, superviser at CGI
+<br>
+<br>
+<b>\"Matti is dependable and helpful all-around. A true friend.\"</b> - Heikki Nurmi, bestman
+<br>
+<br>
+<b>\"A great guy, a clever lady\"</b> - Antti, brother of Matti
+<br>
+<br>
+<b>\"Julia is a bright and enthusiastic young woman.\"</b> - Kelly Althaus, manager
+<br>
+<br>
+<br>
+Just ask anyone, really. Or see for yourself!
+
+"
 
 ---

@@ -8,8 +8,16 @@ date: 2014-07-15
 img: hobbies.jpg
 thumbnail: hobbies-thumbnail.jpg
 alt: image-alt
-key: Lorem
-extra: Ipsum
-description: Study
+key: Relaxed lifestyle
+extra: Healthy tenant is a long term tenant
+description: "
+Our time at the university included parties for a lifetime, so now we tend to focus on more peaceful activities. Usually, our time is used by playing video and board games, watching movies or scrolling cat videos.
+<br>
+<br>
+Moving to Australia from Finland was also a climatic decision for us. Sun plays a big role in our energy levels, and we intend to use that by getting back to jogging and gym routines. For this reason, a gym or park located near the apartment is essential. We truly wish to build our healthy lifestyle while enjoying the warmth of East Australia!
+<br>
+<br>
+When moving to Australia, we were forced to leave our two cats for our relatives to take care of. It was a hard choice, but maybe better and less stressing for each party. Back at home we would also teach new tricks to the cats as well as take slooooow walks with them in the forest. Anyways, these cats are not coming with us to the apartment, but they might be seen in the photos of this cover letter.
+"
 
 ---

@@ -10,6 +10,15 @@ thumbnail: houseowner-thumbnail.jpeg
 alt: image-alt
 key: Experienced house keepers
 extra: Want to visit Finland?
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: "
+We have lived in our own house from the September 2020. Couple of years as a home owner makes one even more mindfull of the wear and tear as well as the annual rutines that an apartment may include. It's not just about the weekly vacuuming, but also the montly routines with the air conditioner filters, setting up the yard at spring, and preparing the property for long, cold, snowy Finnish winter. Luckily, some tasks like snow plowing can now be skipped!
+<br> 
+<br>
+Before buying the house, we have been renting several different apartments in Finland. Never had an issue with landlords, or vice versa. Latest one got a little new paint on the walls thanks to our decorative eye. Owner was pleased of the results!
+<br> 
+<br>
+Our house is now maintained by our relatives. Just by happenstance, have you considered visiting Finland and are in need of a place to stay? 
+
+"
 
 ---

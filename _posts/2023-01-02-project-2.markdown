@@ -1,6 +1,6 @@
 ---
-title: The veterinarian
-subtitle: Julia is a full fledged veterinarian!
+title: The vet
+subtitle: Julia is a full fledged veterinarian
 siteref: julia
 layout: default
 modal-id: 2
@@ -8,8 +8,18 @@ date: 2022-10-17
 img: vet.jpg
 thumbnail: vet-thumbnail.jpg
 alt: image-alt
-key: Salary = 6000€
+key: Salary = 6000A$
 extra: Got a pet to sit? Basic examination on us!
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: "
+\"
+I'm a skillful veterinarian with 5 years of experience and a passion for cats (but I also like other small animals!) Since starting vet school I have always dreamed of coming to Australia and experience Australia's veterinary medicine first hand. It was a lucky coincidence when I bumped into Dr. Michael Linton during last year's ISFM congress. When he offered me an internship position it didn't take long for me to say 'yes!'. So here we are, working in Sydney Veterinary and Emergency Specialists hospital. Looking forward to this following and super interesting year!
+<br>
+<br>
+My salary during the internship is solid 6000A$ per month. Besides that I also have quite some savings so rent management won't be a problem. 
+<br>
+<br>
+Tidy house is a must for me and functional kitchen is the place to be. 
+\"
+"
 
 ---

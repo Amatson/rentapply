@@ -10,6 +10,11 @@ thumbnail: money-thumbnail.jpg
 alt: image-alt
 key: Rent guaranteed
 extra: Might purchase some additional appliances.
-description: Moving to another country is not cheap. However, in addition to stable jobs, we have been saving enough money to be abble to support our stay for more than a year, even if our income sources were to vanish for some reason. <br> <br>As we intend to make our stay comfortable, we are searching for fully equipped and furnished apartment. However, as 
+description: "Moving to another country is never cheap. However, in addition to stable jobs, we have been saving enough money to be abble to support our stay for more than a year, even if our income sources were to vanish for some reason. 
+<br> 
+<br>
+As we intend to make our stay comfortable, we are searching for fully equipped and furnished apartment. However, as it is highly unlikely that all the appliances and widgets we are accustomed to using and did not bring along, we might buy new one here. And, as we already have such gimmicks at home, we will probably leave all extra weight when leaving. If landlord wishes to keep them, of course.
+
+"
 
 ---
