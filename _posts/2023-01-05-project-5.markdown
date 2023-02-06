@@ -6,7 +6,7 @@ layout: default
 modal-id: 5
 date: 2014-07-14
 img: houseowner.jpg
-thumbnail: houseowner-thumbnail.jpg
+thumbnail: houseowner-thumbnail.jpeg
 alt: image-alt
 key: Experienced house keepers
 extra: Want to visit Finland?
