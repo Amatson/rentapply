@@ -1,6 +1,7 @@
 ---
-title: References
+title: Recommendations
 subtitle: Don't take just our word for it!
+siteref: recommendations
 layout: default
 modal-id: 6
 date: 2013-07-15
@@ -9,6 +10,6 @@ thumbnail: references-thumbnail.jpg
 alt: image-alt
 key: People vouch for us!
 extra: Our safety nets are strong
-description: TODO - add some references, maybe comments?
+description: TODO - add some recommendations, maybe comments?
 
 ---

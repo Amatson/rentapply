@@ -1,6 +1,7 @@
 ---
 title: Financials
 subtitle: Stable and prepared
+siteref: finance
 layout: default
 modal-id: 1
 date: 2021-02-01

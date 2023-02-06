@@ -1,6 +1,7 @@
 ---
 title: The veterinarian
 subtitle: Julia is a full fledged veterinarian!
+siteref: julia
 layout: default
 modal-id: 2
 date: 2022-10-17

@@ -1,6 +1,7 @@
 ---
 title: House owners
 subtitle: We know what it is to own a house.
+siteref: house
 layout: default
 modal-id: 5
 date: 2014-07-14
