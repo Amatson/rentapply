@@ -11,7 +11,10 @@ alt: image-alt
 key: People vouch for us!
 extra: We are easy to vouch for
 description: "
-<b>\"Reliable and solid couple.\"</b> - Lea, mother of Matti
+We asked for comments from our friends and acquaintance about why they would recommend us as tenants. All these individuals agreed to recommend us and their contact details are attached to the tenancy application.
+<br>
+<br>
+<b>\"Dependable and solid couple.\"</b> - Lea Ojala, mother of Matti
 <br>
 <br>
 <b>\"Julia is passionate vet and reliable colleague.\"</b> - Suvi Heinola, colleague and clinic owner
@@ -20,17 +23,20 @@ description: "
 <b>\"Matti is active and proactive, trustworthy fellow!\"</b> - Samuli Nikkanen, superviser at CGI
 <br>
 <br>
+<b>\"Cooperative and reliable tenants. Easy to communicate with.\"</b> - Markus Sane, previous landlord
+<br>
+<br>
 <b>\"Matti is dependable and helpful all-around. A true friend.\"</b> - Heikki Nurmi, bestman
 <br>
 <br>
-<b>\"A great guy, a clever lady\"</b> - Antti, brother of Matti
+<b>\"A great guy, a clever lady\"</b> - Antti Ojala, brother of Matti
 <br>
 <br>
-<b>\"Julia is a bright and enthusiastic young woman.\"</b> - Kelly Althaus, manager
+<b>\"Julia is a bright and enthusiastic young woman.\"</b> - Kelly Althaus, manager at Sydney animal hospital
 <br>
 <br>
 <br>
-Just ask anyone, really. Or see for yourself!
+Just ask anyone, really. Or grab a coffee with us and see for yourself! 
 
 "
 

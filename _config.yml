@@ -12,6 +12,7 @@ people:
 - name: Matti Haukilintu
   pic: matti
   position: Husband, software engineer
+  number: '0452261581'
   social:
     - title: facebook
       url: https://www.facebook.com/matti.ojala
@@ -24,7 +25,8 @@ people:
 - name: Julia Haukilintu
   pic: julia
   position: Wife, veterinarian
-  social:
+  number: '0450607657'
+  social: 
     - title: facebook
       url: https://www.facebook.com/julia.gustafsson.3
     - title: instagram
