@@ -13,6 +13,7 @@ people:
   pic: matti
   position: Husband, software engineer
   number: '0452261581'
+  email: tenant-matti@haukilintu.fi
   social:
     - title: facebook
       url: https://www.facebook.com/matti.ojala
@@ -26,6 +27,7 @@ people:
   pic: julia
   position: Wife, veterinarian
   number: '0450607657'
+  email: tenant-julia@haukilintu.fi
   social: 
     - title: facebook
       url: https://www.facebook.com/julia.gustafsson.3
